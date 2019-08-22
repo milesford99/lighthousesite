@@ -1,0 +1,17 @@
+body{
+    background-image: url("light.jpg");
+    background-size: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family: Ariel, Verdana, sans-serif;
+    text-align: center}
+h1, h2 {
+    color:#ee3e80;
+    text-align: center;
+    text-shadow: 2px 2px #665544}
+p {
+    color: #665544;}
+    li {
+        display: inline;
+        padding: 5px;
+    }
